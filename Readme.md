@@ -45,7 +45,7 @@ The Starbucks Website template provides an attractive and user-friendly interfac
 
 ![About Starbucks](/Public/contact.png)
 
-![Contact](/Public/contact.png)
+
 
 ## How to Use
 
